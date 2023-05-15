@@ -1,2 +1,2 @@
 # DevAudaces_M02_S03
-Lista de exercicio, semana 02 - DEVinHouse
+Lista de exercicio, semana 03 - DEVinHouse
